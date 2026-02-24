@@ -11,7 +11,7 @@ class UTSApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'UTS Mobile App',
+      title: 'UTS Mobile App Earthen Krisdian Setya 23502410009',
       theme: ThemeData(primarySwatch: Colors.purple),
       home: const LoginScreen(),
       debugShowCheckedModeBanner: true,
