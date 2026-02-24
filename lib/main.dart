@@ -14,7 +14,7 @@ class UTSApp extends StatelessWidget {
       title: 'UTS Mobile App',
       theme: ThemeData(primarySwatch: Colors.purple),
       home: const LoginScreen(),
-      debugShowCheckedModeBanner: false,
+      debugShowCheckedModeBanner: true,
     );
   }
 }
